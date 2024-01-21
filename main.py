@@ -3,7 +3,7 @@ import gradio as gr
 import openai
 
 # Insert your API key Here
-api_key = "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"
+api_key = "<API Key Here>"
 
 if api_key is None:
     raise ValueError("OPENAI_API_KEY environment variable is not set")
