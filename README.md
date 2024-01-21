@@ -11,7 +11,7 @@ To run this project, follow the steps below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/racker9r/Sentence-Generator.git
    ```
 
 2. Install the required dependencies:
@@ -33,7 +33,7 @@ To run this project, follow the steps below:
 4. Run the project:
 
    ```bash
-   python your_project_file.py
+   python sentence_generator.py
    ```
 
    This will launch the Gradio interface, allowing you to interact with the sentence generator.
