@@ -1,6 +1,4 @@
-# Project Name
-
-## Sentence Generator using OpenAI's GPT-2
+# Sentence Generator using OpenAI's GPT-2
 
 ### Introduction
 
